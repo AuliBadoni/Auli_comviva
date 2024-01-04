@@ -3,7 +3,8 @@
 Below are 2 test examples : - 
 
 **Test Case ID:** UPI_Payment_001
-Test Summary: Verify successful UPI payment initiation.
+
+**Test Summary:** Verify successful UPI payment initiation.
 
 **Test Steps:**
 1. Prerequisites:
@@ -57,7 +58,8 @@ Test Summary: Verify successful UPI payment initiation.
 ---
 
 **Test Case ID:** UPI_Payment_002
-Test Summary: Verify UPI payment failure due to insufficient balance.
+
+**Test Summary:** Verify UPI payment failure due to insufficient balance.
 
 **Test Steps:**
 1. Prerequisites:
@@ -104,6 +106,7 @@ Test Summary: Verify UPI payment failure due to insufficient balance.
 
 Below are three cases with **High , medium and low priority cases**:- 
 
+1.
 
 **Defect ID:** D-001
 
@@ -127,6 +130,7 @@ Users are able to log in without providing valid credentials, posing a security 
 4. Observe that the system allows access without valid credentials.
 
 ---
+2.
 
 **Defect ID:** D-002
 
@@ -152,7 +156,7 @@ The search functionality in the search type box is not working as expected, hind
 
 ---
 
-
+3.
 **Defect ID:** D-003
 
 **Descriptive Defect Name and Type:**
@@ -175,6 +179,7 @@ Users are unable to check notifications within the application, impacting their 
 4. Observe that the notifications are not accessible or displayed as expected.
 
 ---
+4. 
 
 **Defect ID:** D-003
 
